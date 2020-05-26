@@ -1,0 +1,23 @@
+{
+  "name": "jigglemouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartjdouglas/JiggleMouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuartjdouglas/JiggleMouse/issues"
+  },
+  "homepage": "https://github.com/stuartjdouglas/JiggleMouse#readme",
+  "dependencies": {
+    "iohook": "^0.6.5",
+    "robotjs": "^0.6.0"
+  }
+}
